@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Tw Cen MT", sans-serif;
+	font-size: 17px;
+}
+#navbar{
+	background-color: #b6f9cb;
+	opacity: 0.75;
+}
+#menu{
+	float: right;
+	padding-right: 10px;
+}
+.color-background {
+	background-color: #b6f9cb;
+}
+#order .btn{
+	background-color: #b6f9cb;
+	border: none;
+	color: black;
+	padding: 15px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 50px;
+	cursor: pointer;
+	width: 50%;
+	border-radius: 10px;
+}
+form{
+	display: inline-block;
+}
+.vlorID {
+	text-align: center;
+}
+.testimony{
+	border: 1px ;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: white;
+}
+#contact a{
+	text-decoration: none;
+}
+.logo img{
+	position: absolute;
+	margin-left: 20px;
+	width: 120px;
+	height: 50px;
+}
+.contain-logo img{
+	width: 45%;
+	height: 90%;
+}
+
+
+
+
